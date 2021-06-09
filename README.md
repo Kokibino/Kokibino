@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Koki Warabino
 - 👀 I’m interested in Front-end Web Development
 - 🌱 I’m currently learning HTML,CSS,JavaScript
-- 💞️ I’m looking to collaborate on making my portfolio
+- 💞️ I’m looking to learn and currently making my portfolio
+- 📸 Photographer/Filmaker as a living
 - 📫 How to reach me kkinoshots@gmail.com
 
 <!---
