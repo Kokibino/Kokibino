@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Koki Warabino
-- 👀 I’m interested in Front-end Web Development
-- 🌱 I’m currently learning HTML,CSS,JavaScript
+- 👀 Seeking a career in Frontend Web Development
+- 🌱 HTML,CSS,JavaScript,Vue js
 - 💞️ Currently making my portfolio
 - 📸 Photographer/Filmaker as a living
 - 🗣 English and Japanese 
