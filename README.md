@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Koki Warabino
-- 👀 Seeking a career in Frontend Web Development
+- 👀 Frontend Web Development
 - 🌱 HTML,CSS,JavaScript,Vue js
-- 💞️ Currently making my portfolio
-- 📸 Photographer/Filmaker as a living
+- 💞️ Loves to travel the world
+- 📸 Photographer/Filmaking
 - 🗣 English and Japanese 
 - 📫 How to reach me kkinoshots@gmail.com
 
