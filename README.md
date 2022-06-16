@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Koki Warabino
 - 👀 Frontend Web Development
-- 🌱 HTML,CSS,JavaScript,Vue js
-- 💞️ Loves to travel the world
+- 🌱 HTML,CSS,Ruby,Ruby on Rails,JavaScript,Vue js
+- 💞️ Loves to travel
 - 📸 Photographer/Filmaking
 - 🗣 English and Japanese 
 - 📫 How to reach me kkinoshots@gmail.com
