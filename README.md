@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Koki Warabino
-- 👀 Frontend Web Development
-- 🌱 HTML,CSS,Ruby,Ruby on Rails,JavaScript,Vue js
+- 👀 Junior Frontend Web Developer
+- 🌱 HTML,CSS,Ruby,JavaScript,Vue js
 - 💞️ Loves to travel
 - 📸 Photographer/Filmaking
 - 🗣 English and Japanese 
