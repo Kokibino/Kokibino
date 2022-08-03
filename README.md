@@ -3,8 +3,8 @@
 - 🌱 HTML,CSS,Ruby,JavaScript,Vue js
 - 💞️ Loves to travel
 - 📸 Photographer/Filmaking
-- 🗣 English and Japanese 
-- 📫 How to reach me kkinoshots@gmail.com
+- 🗣 English/Japanese 
+- 📫 reach me at kkinoshots@gmail.com
 
 <!---
 Kokibino/Kokibino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
