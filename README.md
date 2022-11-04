@@ -3,7 +3,7 @@ Welcome to my page
 - 👤 Hi, I’m @Justin Koki Warabino
 - 🫥 Junior Frontend Web Developer
 - 🖥 HTML,CSS,JavaScript,Vue js,Node js
-- 🗼 Love to travel
+- 🗼 Love to Explore
 - 📸 Photographer/Filmaking
 - 🗣 English/Japanese 
 - 📫 reach me at kokibino@gmail.com
