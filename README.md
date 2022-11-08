@@ -4,13 +4,11 @@ Welcome to my page
 - 🫥 Junior Frontend Web Developer
 - 🖥 HTML,CSS,JavaScript,Vue js,Node js
 - 🗼 Love to Travel
-- 📸 Photographer/Filmaking
+- 📸 Photographer/Filmaking/Drone
 - 🗣 English/Japanese 
 - 📫 reach me at kokibino@gmail.com
 
 Instagram: https://www.instagram.com/kkino.shots/?hl=en
-
-
 
 
 <!---
