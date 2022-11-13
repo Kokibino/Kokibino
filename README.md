@@ -10,6 +10,8 @@ Welcome to my page
 
 Instagram: https://www.instagram.com/kkino.shots/?hl=en
 
+-Live Life to its fuulest!
+
 
 <!---
 Kokibino/Kokibino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
