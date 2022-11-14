@@ -10,7 +10,6 @@ Welcome to my page
 
 Instagram: https://www.instagram.com/kkino.shots/?hl=en
 
--Live Life to its fuulest!
 
 
 <!---
