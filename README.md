@@ -10,9 +10,9 @@ Welcome to my page
 
 Instagram: https://www.instagram.com/kkino.shots/?hl=en
 
+<div id="header" align="center">
 <iframe src="https://giphy.com/embed/1lvotGQwhzi6O0gQtV" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-after-effects-pre-rendered-1lvotGQwhzi6O0gQtV">via GIPHY</a></p>
-
-
+</div>
 
 <!---
 Kokibino/Kokibino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
