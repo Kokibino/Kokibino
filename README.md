@@ -15,7 +15,7 @@ Instagram: https://www.instagram.com/kkino.shots/?hl=en
 </div>
 
 <div id="body" align="center">
-<img src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480"/>
+<img src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="100%"/>
 </div>
 
 <!---
