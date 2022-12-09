@@ -9,7 +9,7 @@ Welcome to my page
 - 📫 reach me at kokibino@gmail.com
 
 Instagram: https://www.instagram.com/kkino.shots/?hl=en
-...
+
 
 
 
